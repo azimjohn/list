@@ -12357,6 +12357,10 @@ myjino.ru
 *.triton.zone
 *.cns.joyent.com
 
+// Jprq : https://jprq.io
+// Submited by Azimjon Pulatov <azimjondev@gmail.com>
+jprq.io
+
 // JS.ORG : http://dns.js.org
 // Submitted by Stefan Keim <admin@js.org>
 js.org
